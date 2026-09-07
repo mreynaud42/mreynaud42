@@ -28,11 +28,11 @@ I'm particularly interested in:
 - Software development
 - Understanding how systems work under the hood
 
-## 🎯 Looking for an Internship
+## 🎯 Looking for an Internship or Work-Study
 For 2026/2027, I am looking for:
 
 - Internship: 4 to 6 months
-- Apprenticeship: 2 years
+- Work-Study: 2 years
 
 I'm looking for a developer position, with a particular interest in software, systems, low-level development, or embedded systems.
 
