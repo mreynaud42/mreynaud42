@@ -1,19 +1,18 @@
 # Hi, I'm Mreynaud 👋
 
 ## 👨‍🎓 About me
-Software development student at 42 School, currently completing the Common Core.
-Through project-based and peer-to-peer learning, I have built strong foundations in programming, algorithms, and software development.
+Student at 42 Lyon and graduate of 42 School, I have built strong foundations in programming, algorithms, and software development through project-based, self-directed, and collaborative learning.
 
-I enjoy problem solving, writing clean code, and working on concrete projects, both individually and collaboratively.
+I enjoy understanding how things work, solving technical problems, and building concrete solutions.
 
 ## 🏫 42 School
-42 is an innovative computer science school with no lectures or teachers.
-The learning process is based on projects, self-directed work, and peer-to-peer collaboration, encouraging autonomy, teamwork, and knowledge sharing.
+42 is a computer science school based on project-based learning, self-directed work, and peer-to-peer collaboration.
+
+This approach has allowed me to develop strong autonomy, problem-solving skills, and experience working on technical projects both individually and collaboratively.
 
 ## 🛠️ Technical Skills
-- Languages: C, C++, HTML, CSS, JavaScript, TypeScript  
-- Systems: Unix / Linux fundamentals  
-- Tools: Git, version control, collaborative workflows  
+- Languages: C, C++, HTML, CSS, JavaScript, TypeScript
+- Systems: Unix / Linux
 - Concepts: algorithms, problem solving, software development basics  
 
 ## 💻 Projects
@@ -21,15 +20,24 @@ The learning process is based on projects, self-directed work, and peer-to-peer 
 - Web-oriented projects using HTML, CSS and TypeScript
 - Personal projects in Rust and web development
 
-## 🌱 I’m currently learning
-- Currently working on school and personal projects
+## 🌱 Areas of Interest
+I'm particularly interested in:
+- Systems programming
+- Low-level development
+- Embedded systems
+- Software development
+- Understanding how systems work under the hood
 
 ## 🎯 Looking for an Internship
-I am currently seeking a **software development internship** starting **March 2026**  
-(4 to 6 months) to continue improving my technical skills and contribute to real-world projects within a team.
+For 2026/2027, I am looking for:
+
+- Internship: 4 to 6 months
+- Apprenticeship: 2 years
+
+I'm looking for a developer position, with a particular interest in software, systems, low-level development, or embedded systems.
 
 ## 📫 Contact
-- GitHub: [mreynaud42](https://github.com/mreynaud42)
+- Website: [mathis-reynaud](https://mathis-reynaud.fr/)
 - LikedIn: [mathis-reynaud](https://www.linkedin.com/in/mathis-reynaud/)
 
 <!--
